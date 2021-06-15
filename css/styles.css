@@ -172,7 +172,7 @@ hr {
 .projects-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  margin: auto;
+  margin: 0px 0px 0px 50px;
 }
 
 .projects__card {
@@ -211,7 +211,7 @@ hr {
   .projects-container {
     display: grid;
     grid-template-columns: 1fr;
-    width: 250px;
+    /* width: 250px; */
     /* height: 250px; */
     margin: 40px auto;
   }
